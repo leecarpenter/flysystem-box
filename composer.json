@@ -1,5 +1,5 @@
 {
-    "name": "zburke/flysystem-box",
+    "name": "leecarpenter/flysystem-box",
     "description": "Flysystem adapter for Box",
     "license": "MIT",
     "authors": [
