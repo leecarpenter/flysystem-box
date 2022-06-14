@@ -3,7 +3,7 @@
 ## Installation
 
 ```bash
-composer require zburke/flysystem-box
+composer require leecarpenter/flysystem-box
 ```
 
 ## Usage
